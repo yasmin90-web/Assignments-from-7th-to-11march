@@ -1,0 +1,68 @@
+ body {
+background: #9fa8a3;
+}
+
+        
+header {
+text-align: center;
+}
+        
+header i,
+span {
+color: #7096d4;
+}
+        
+header span {
+font-size: 27px;
+position: relative;
+bottom: 3px;
+left: 3px;
+}
+
+        
+.timer {
+text-align: center;
+color: rgba(255, 255, 255, 0.103);
+}
+        
+.timer span {
+color: #fff;
+font-size: 100px;
+}
+        
+.timer span:nth-child(2) {
+            position: relative;
+            left: 30px;
+}
+
+        
+footer {
+text-align: center;
+margin-top: 20px;
+}
+        
+footer button:nth-child(1) {
+background-color: #7096d4;
+font-weight: 1000;
+border-color: transparent;
+border-radius: 3px;
+padding: 5px;
+width: 80px;
+cursor: pointer;
+        }
+        
+footer button:nth-child(2) {
+background-color: #7096d4;
+font-weight: 1000;
+border-color: transparent;
+border-radius: 3px;
+padding: 5px;
+width: 80px;
+position: relative;
+left: 10px;
+cursor: pointer;
+}
+
+.container{
+    margin-top: 270px;
+}
